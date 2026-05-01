@@ -1,4 +1,4 @@
-baseURL = 'https://pcs3rd.me/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = 'PaperMod'
+baseURL = 'https://pcs3rd/me/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = PaperMod
